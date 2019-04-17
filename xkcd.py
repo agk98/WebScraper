@@ -1,4 +1,3 @@
-#! python3
 # xkcd.py - Downloads every single Xkcd comic
 
 import requests, os, bs4
